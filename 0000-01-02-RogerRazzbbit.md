@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the next slide"
 ...
-Your text
+Mumma allways said "Life is like a box of choclates, you never no what your going to get"
 Use the left arrow to go back!
